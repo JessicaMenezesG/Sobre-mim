@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tecnologias que estou aprendendo e utilizando
+## Tecnologias que estou aprendendo e utilizando
 
 ![PHP]
 ![Python]
@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Em constante aprendizado
+## Em constante aprendizado
 
 - Desenvolvimento Web (Front e Back-End)
 - APIs REST com PHP e Python
@@ -31,14 +31,9 @@
 
 ---
 
-## 📫 Como me encontrar
-
-[![LinkedIn](https://www.linkedin.com/in/jessicademenzesg/)
 
 
----
 
-> “Estudar é difícil, mas desistir de um sonho é ainda mais. Um passo de cada vez, sempre com foco e coragem.” 🚀
 
 
 
